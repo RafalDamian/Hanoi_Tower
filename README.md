@@ -7,7 +7,7 @@ ___
 1. Each move consists of taking the upper ring from one of the stacks and placing it on top of another stack or on an empty pillar.
 1. No ring may be placed on top of a ring that is smaller than it.
 
-The minimal number of moves required to solve a Tower of Hanoi puzzle is 2^n − 1, where n is the number of disks.
+The minimal number of moves required to solve a Tower of Hanoi puzzle is 2^n − 1, where n is the number of rings.
 
 ![](images/start.png)
 ![](images/end.png)
