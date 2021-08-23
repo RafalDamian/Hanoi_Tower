@@ -61,9 +61,8 @@ def transfer_ring(pillar1, pillar2):
 while True:
     if  not l_pillar.rings and not m_pillar.rings:
         break
-    else:
-        for (pillar1, pillar2) in move_order:
-            make_move(pillar1, pillar2)
-            moves += 1
-            txt_moves.text = f'{moves}/{2**n-1}'
-            sleep(5/n) 
+    for (pillar1, pillar2) in move_order:
+        make_move(pillar1, pillar2)
+        moves += 1
+        txt_moves.text = f'{moves}/{2**n-1}'
+        sleep(5/n) 
