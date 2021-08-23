@@ -13,7 +13,7 @@ The minimal number of moves required to solve a Tower of Hanoi puzzle is 2^n −
 ![](images/end.png)
 
 
-Whole project was realized in VPython. It took less than 70 lines of code to create Hanoi Tower solver with an optimal (2^n-1 moves) solution. The following was possible due to implementation of a following iterative sollution:
+Whole project was realized in VPython. It took less than 70 lines of code to create Hanoi Tower solver with an optimal (2^n-1 moves) solution. This was possible due to implementation of a following iterative sollution:
 
 For an even number of disks:
 - make the legal move between pillars A and B (in either direction),
