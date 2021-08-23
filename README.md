@@ -35,6 +35,6 @@ Since the relationship between the number of rings and the number of moves to ma
 
 ![](images/big_one.png)
 
-One of the advantages of using Visual Python is that you can easily create beautiful simulations that do not cost the computer a lot of memory. You can also rotatea and zoom them suring the run.
+One of the advantages of using Visual Python is that you can easily create beautiful simulations that do not cost the computer a lot of memory. You can also rotatea and zoom them during the run.
 
 ![](images/rotate.png)
